@@ -127,4 +127,4 @@ Built solo for the **Orion Build Challenge 2026** across the following domains:
 
 ## 👤 Author
 
-Built with 💜 by [Your Name]
+Built with 💜 by Uthman Mustapha
